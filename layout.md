@@ -31,3 +31,4 @@ figures/Power/Power.PNG
 ModelsBefore_doing_any_models_we__.html
 Results_preliminary_Some_rough_insights__.html
 figures/cumulative yield/cumulative yield.PNG
+figures/End yield/End yield.PNG
