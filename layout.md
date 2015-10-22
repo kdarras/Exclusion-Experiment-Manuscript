@@ -33,3 +33,4 @@ Results_preliminary_Some_rough_insights__.html
 figures/cumulative yield/cumulative yield.PNG
 figures/End yield/End yield.PNG
 figures/End yield cages/End yield cages.PNG
+figures/rubber growth/rubber growth.png
