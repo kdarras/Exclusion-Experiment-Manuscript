@@ -23,3 +23,4 @@ Statistical_analysisAnt_exclusion_effectivenessWe_used__.html
 Arthropods_ecosystem_functions_and_yield__.html
 ResultsAnt_exclusion_effectivenessAverage_ant_abundance__.html
 Arthropods_ecosystem_functions_and_yield__1.html
+figures/Diagram/Diagram.PNG
