@@ -28,3 +28,4 @@ figures/Diagram2/Diagram2.PNG
 Simple_power_analysisFrom_the_start__.html
 Theoretically_with_the_current_variability__.html
 figures/Power/Power.PNG
+ModelsBefore_doing_any_models_we__.html
