@@ -26,4 +26,5 @@ Arthropods_ecosystem_functions_and_yield__1.html
 figures/Diagram/Diagram.PNG
 figures/Diagram2/Diagram2.PNG
 Simple_power_analysisFrom_the_start__.html
+Theoretically_with_the_current_variability__.html
 figures/Power/Power.PNG
